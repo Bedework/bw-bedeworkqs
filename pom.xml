@@ -9,7 +9,7 @@
 
   <groupId>org.bedework.deploy</groupId>
   <artifactId>bw-bedeworkqs</artifactId>
-  <version>4.0.0</version>
+  <version>4.0.1-SNAPSHOT</version>
 
   <packaging>pom</packaging>
   <name>Bedework: Content for quickstart web pages</name>
